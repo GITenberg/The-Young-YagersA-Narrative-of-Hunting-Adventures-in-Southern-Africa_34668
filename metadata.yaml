@@ -1,0 +1,48 @@
+_repo: The-Young-YagersA-Narrative-of-Hunting-Adventures-in-Southern-Africa_34668
+_version: 0.1.0
+alternative_title: 'The Young Yägers: A Narrative of Hunting Adventures in Southern
+  Africa'
+contributor:
+  illustrator:
+    agent_name: Harvey, William
+    birthdate: 1796
+    deathdate: 1866
+    gutenberg_agent_id: '25917'
+    url: http://www.gutenberg.org/2009/agents/25917
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Reid, Thomas Mayne
+    - Mayne-Reid, Captain
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2010-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Wilderness survival -- Juvenile fiction'
+- !lcsh 'Africa, Southern -- Description and travel -- Juvenile fiction'
+- !lcsh 'Big game animals -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Big game hunting -- Africa, Southern -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+title: 'The Young Yagers: A Narrative of Hunting Adventures in Southern Africa'
+url: http://www.gutenberg.org/ebooks/34668
